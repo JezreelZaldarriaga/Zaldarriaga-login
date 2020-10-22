@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964128208308",
+    "firebase_url": "https://flutter-login-c2ff2.firebaseio.com",
+    "project_id": "flutter-login-c2ff2",
+    "storage_bucket": "flutter-login-c2ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964128208308:android:54b3fc7e10bf763f21aee1",
+        "android_client_info": {
+          "package_name": "com.example.try_fix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964128208308-l6hgl6ep1grvg7daov3bfpnmdosun80l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPydUETA463_3QRiw5mN2Ym_nzKiY3jdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964128208308-l6hgl6ep1grvg7daov3bfpnmdosun80l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
